@@ -11,7 +11,6 @@ let new_collections = [
   {
     id: 12,
     name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image: p1_img,
     new_price: 50.0,
     old_price: 80.5,
     bid: 7,
@@ -19,7 +18,7 @@ let new_collections = [
   {
     id: 35,
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
-    image: p1_img,
+    image: p2_img,
     new_price: 85.0,
     old_price: 120.5,
     bid: 7,
