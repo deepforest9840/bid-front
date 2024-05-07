@@ -14,6 +14,8 @@
   font-size: 38px;
   font-weight: 600;
 }
+
+
 .nav-menu{
   display: flex;
   align-items: center;
@@ -41,7 +43,7 @@
 .nav-login-cart{
   display: flex;
   align-items: center;
-  gap: 45px;
+  gap: 20px;
 }
 .nav-login-cart button{
   width: 157px;
@@ -65,9 +67,14 @@
   justify-content: center;
   align-items: center;
   margin-top: -35px;
-  margin-left: -55px;
+  margin-left: -25px;
   border-radius: 11px;
   font-size: 14px;
   background: red;
   color: white;
+}
+.nav-create-bid {
+  display: flex;
+ 
+  
 }
