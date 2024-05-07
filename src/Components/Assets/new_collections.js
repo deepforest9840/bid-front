@@ -14,6 +14,7 @@ let new_collections = [
     image: p1_img,
     new_price: 50.0,
     old_price: 80.5,
+    bid: 7,
   },
   {
     id: 35,
@@ -21,6 +22,7 @@ let new_collections = [
     image: p2_img,
     new_price: 85.0,
     old_price: 120.5,
+    bid: 7,
   },
   {
     id: 14,
@@ -28,6 +30,7 @@ let new_collections = [
     image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
+    bid: 7,
   },
   {
     id: 8,
@@ -38,6 +41,7 @@ let new_collections = [
     old_price:400.5,    
     AuctionEndDate: "null",
     seller_id: 4000,
+    bid: 7,
   },
   {
     id: 15,
@@ -48,6 +52,7 @@ let new_collections = [
     old_price:400.5,    
     AuctionEndDate: "null",
     seller_id: 4000,
+    bid: 7,
   },
   {
     id: 2,
@@ -58,6 +63,7 @@ let new_collections = [
     old_price:400.5,    
     AuctionEndDate: "null",
     seller_id: 4000,
+    bid: 7,
   },
   {
     id: 17,
@@ -68,6 +74,7 @@ let new_collections = [
     old_price:400.5,    
     AuctionEndDate: "null",
     seller_id: 4000,
+    bid: 7,
   },
   {
     id: 28,
@@ -78,6 +85,7 @@ let new_collections = [
     old_price:400.5,    
     AuctionEndDate: "null",
     seller_id: 4000,
+    bid: 7,
   },
 ];
 
